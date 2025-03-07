@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+body{
+    font-family: "Montserrat Alternates";
+    background-color: #131722;
+}
